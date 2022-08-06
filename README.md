@@ -6,3 +6,6 @@ It block the outher connectios to avoid to them appear into the server list of r
 
 The ips are taken from this website:
 https://www.ip2location.com/free/visitor-blocker
+
+
+https://docs.microsoft.com/es-es/windows/security/threat-protection/windows-firewall/windows-firewall-with-advanced-security-administration-with-windows-powershell
